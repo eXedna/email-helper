@@ -3,6 +3,8 @@
 
 Инструкция по установке:
 ```sh
+git clone https://github.com/eXedna/email-helper
+cd email-helper
 python install.py
 ```
 После этого можете смело дважды кликать на иконку файла gui.exe!
